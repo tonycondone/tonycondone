@@ -9,9 +9,8 @@
 
 - 👯 I’m looking to collaborate on [Open-source data visualization libraries](https://www.rawgraphs.io)
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
-
-- 📝 I regularly write articles on [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at [Coming soon]
+- 📝 I regularly write articles on [Coming soon]
 
 - 💬 Ask me about **Power BI,Data Analysis,Python,ETL workflows**
 
