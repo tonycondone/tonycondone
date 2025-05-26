@@ -23,7 +23,7 @@
 <a href="https://twitter.com/tonykflex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonykflex" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30638298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30638298" height="30" width="40" /></a>
 <a href="https://instagram.com/tonykflex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonykflex" height="30" width="40" /></a>
-<a href="https://discord.gg/40kgulap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="40kgulap" height="30" width="40" /></a>
+<a href="https://discord.gg/kXHx89kZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="40kgulap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
