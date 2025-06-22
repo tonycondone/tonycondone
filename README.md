@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Ofori Owusu</h1>
 <h3 align="center">I’m an aspiring data analyst and developer from Ghana, currently learning and building my skills step by step.</h3>
 
-<p align="left"> <a href="https://twitter.com/tonykflex" target="blank"><img src="https://img.shields.io/twitter/follow/tonykflex?logo=twitter&style=for-the-badge" alt="tonykflex" /></a> </p>
+<p align="center"> <a href="https://twitter.com/tonykflex" target="blank"><img src="https://img.shields.io/twitter/follow/tonykflex?logo=twitter&style=for-the-badge" alt="tonykflex" /></a> </p>
 
 - 🔭 I’m currently working on [PROJECT NIV - An Email Automation Tool for Data Analysis](https://github.com/tonycondone/project-niv)
 
