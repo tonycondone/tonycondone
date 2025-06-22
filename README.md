@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PROJECT NIV - An Email Automation Tool for Data Analysis](https://github.com/tonycondone/project-niv)
 
-- 🌱 I’m currently learning **"Advanced Python", "Power BI", "Data Warehousing", "Machine Learning (Scikit-learn)"**
+- 🌱 I’m currently learning **"Advanced Python", "N8N automations", "Data Warehousing", "Machine Learning (Scikit-learn)"**
 
 - 👯 I’m looking to collaborate on [Open-source data visualization libraries](https://www.rawgraphs.io)
 
