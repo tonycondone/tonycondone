@@ -96,7 +96,7 @@ A modern, secure, and comprehensive digital birth certificate management system 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="animation: float 3s ease-in-out infinite 1.5s;
+  
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Always+Learning%2C+Always+Building!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
