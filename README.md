@@ -33,7 +33,7 @@ A modern, secure, and comprehensive digital birth certificate management system 
 - 🔄 **RESTful API** with 24+ endpoints
 - 📱 **Responsive Design** with modern UI/UX
 
-**Status**: ✅ **Production Ready** - Fully operational and deployed
+**Status**: ✅ **Production Ready** - Fully operational ,not  deployed yet :/
 
 **Tech Stack**: PHP 8.4, MySQL 8.0, HTML5/CSS3, JavaScript ES6+, Bootstrap, Blockchain
 
