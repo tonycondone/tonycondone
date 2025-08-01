@@ -37,7 +37,391 @@ A modern, secure, and comprehensive digital birth certificate management system 
 
 **Tech Stack**: PHP 8.4, MySQL 8.0, HTML5/CSS3, JavaScript ES6+, Bootstrap, Blockchain
 
-[View Project →](https://github.com/tonycondone/birth-certificate-system)
+[View Project →](https://github.com/tonycondone/birth-certificate-system)      🔄 **HTML Edit Mode** - Processing your edit request...
+
+```diff
+<<<<<<< SEARCH
+    <script>
+        // Create floating background elements
+        const container = document.querySelector('.container');
+        const colors = ['rgba(255, 255, 255, 0.3)', 'rgba(255, 255, 255, 0.2)', 'rgba(255, 255, 255, 0.4)'];
+        
+        for (let i = 0; i < 8; i++) {
+            const item = document.createElement('div');
+            item.className = 'floating-item';
+            
+            const size = Math.random() * 30 + 10;
+            const color = colors[Math.floor(Math.random() * colors.length)];
+            
+            item.style.width = `${size}px`;
+            item.style.height = `${size}px`;
+            item.style.background = color;
+            item.style.left = `${Math.random() * 100}%`;
+            item.style.top = `${Math.random() * 100}%`;
+            
+            // Random animation duration and delay
+            const duration = Math.random() * 10 + 10;
+            const delay = Math.random() * 5;
+            item.style.animation = `float-around ${duration}s ease-in-out ${delay}s infinite`;
+            
+            container.appendChild(item);
+        }
+    </script>
+=======
+    
+>>>>>>> REPLACE
+```
+
+
+```diff
+<<<<<<< SEARCH
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Hidden Indicator</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 5px;
+            min-height: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: system-ui, sans-serif;
+        }
+        
+        .container {
+            position: relative;
+            width: 150px;
+            height: 50px;
+        }
+        
+        .hidden-sign {
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 6px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            padding: 5px;
+            box-sizing: border-box;
+            animation: float 3s ease-in-out infinite;
+        }
+        
+        .hidden-sign .text {
+            font-size: 12px;
+            color: #333;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+        
+        .hidden-sign .eyes {
+            display: flex;
+            gap: 4px;
+        }
+        
+        .hidden-sign .eye {
+            width: 12px;
+            height: 12px;
+            background: #333;
+            border-radius: 50%;
+            position: relative;
+            animation: blink 3s infinite;
+        }
+        
+        .hidden-sign .eye:before {
+            content: '';
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            width: 4px;
+            height: 4px;
+            background: white;
+            border-radius: 50%;
+        }
+        
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0);
+                box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+            }
+            50% {
+                transform: translateY(-3px);
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            }
+        }
+        
+        @keyframes blink {
+            0%, 90%, 100% {
+                transform: scaleY(1);
+            }
+            95% {
+                transform: scaleY(0.1);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="hidden-sign">
+            <div class="text">🤫 Hidden Project</div>
+            <div class="eyes">
+                <div class="eye"></div>
+                <div class="eye"></div>
+            </div>
+        </div>
+    </div>
+
+    
+</body>
+</html>
+=======
+<style>
+    .hidden-indicator {
+        margin: 0;
+        padding: 5px;
+        width: 160px;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        font-family: system-ui, sans-serif;
+    }
+    
+    .hidden-indicator .container {
+        position: relative;
+        width: 150px;
+        height: 50px;
+    }
+    
+    .hidden-indicator .hidden-sign {
+        width: 100%;
+        height: 100%;
+        background: rgba(255, 255, 255, 0.95);
+        border-radius: 6px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 4px;
+        padding: 5px;
+        box-sizing: border-box;
+        animation: float 3s ease-in-out infinite;
+    }
+    
+    .hidden-indicator .hidden-sign .text {
+        font-size: 12px;
+        color: #333;
+        font-weight: 600;
+        white-space: nowrap;
+    }
+    
+    .hidden-indicator .hidden-sign .eyes {
+        display: flex;
+        gap: 4px;
+    }
+    
+    .hidden-indicator .hidden-sign .eye {
+        width: 12px;
+        height: 12px;
+        background: #333;
+        border-radius: 50%;
+        position: relative;
+        animation: blink 3s infinite;
+    }
+    
+    .hidden-indicator .hidden-sign .eye:before {
+        content: '';
+        position: absolute;
+        top: 2px;
+        left: 2px;
+        width: 4px;
+        height: 4px;
+        background: white;
+        border-radius: 50%;
+    }
+    
+    @keyframes float {
+        0%, 100% {
+            transform: translateY(0);
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+        }
+        50% {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    }
+    
+    @keyframes blink {
+        0%, 90%, 100% {
+            transform: scaleY(1);
+        }
+        95% {
+            transform: scaleY(0.1);
+        }
+    }
+</style>
+
+<div class="hidden-indicator">
+    <div class="container">
+        <div class="hidden-sign">
+            <div class="text">🤫 Hidden Project</div>
+            <div class="eyes">
+                <div class="eye"></div>
+                <div class="eye"></div>
+            </div>
+        </div>
+    </div>
+</div>
+>>>>>>> REPLACE
+```
+
+
+>>>>>>> REPLACE
+
+Summary: Removed full HTML structure, script, and unnecessary elements; converted to a self-contained snippet with <style> and <div> for direct embedding in GitHub README.md; wrapped in a containing div with body styles for compatibility. To use in README: Paste the snippet directly into your .md file. For a preview image, add <img src="https://placehold.co/160x60?text=Hidden+Project" alt="Compact hidden project indicator with floating sign and blinking eyes"> above it.Here is the updated HTML content after applying above edits:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Hidden Indicator</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 5px;
+            min-height: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: system-ui, sans-serif;
+        }
+        
+        .container {
+            position: relative;
+            width: 150px;
+            height: 50px;
+        }
+        
+        .hidden-sign {
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 6px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            padding: 5px;
+            box-sizing: border-box;
+            animation: float 3s ease-in-out infinite;
+        }
+        
+        .hidden-sign .text {
+            font-size: 12px;
+            color: #333;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+        
+        .hidden-sign .eyes {
+            display: flex;
+            gap: 4px;
+        }
+        
+        .hidden-sign .eye {
+            width: 12px;
+            height: 12px;
+            background: #333;
+            border-radius: 50%;
+            position: relative;
+            animation: blink 3s infinite;
+        }
+        
+        .hidden-sign .eye:before {
+            content: '';
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            width: 4px;
+            height: 4px;
+            background: white;
+            border-radius: 50%;
+        }
+        
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0);
+                box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+            }
+            50% {
+                transform: translateY(-3px);
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            }
+        }
+        
+        @keyframes blink {
+            0%, 90%, 100% {
+                transform: scaleY(1);
+            }
+            95% {
+                transform: scaleY(0.1);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="hidden-sign">
+            <div class="text">🤫 Hidden Project</div>
+            <div class="eyes">
+                <div class="eye"></div>
+                <div class="eye"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Create floating background elements
+        const container = document.querySelector('.container');
+        const colors = ['rgba(255, 255, 255, 0.3)', 'rgba(255, 255, 255, 0.2)', 'rgba(255, 255, 255, 0.4)'];
+        
+        for (let i = 0; i < 8; i++) {
+            const item = document.createElement('div');
+            item.className = 'floating-item';
+            
+            const size = Math.random() * 30 + 10;
+            const color = colors[Math.floor(Math.random() * colors.length)];
+            
+            item.style.width = `${size}px`;
+            item.style.height = `${size}px`;
+            item.style.background = color;
+            item.style.left = `${Math.random() * 100}%`;
+            item.style.top = `${Math.random() * 100}%`;
+            
+            // Random animation duration and delay
+            const duration = Math.random() * 10 + 10;
+            const delay = Math.random() * 5;
+            item.style.animation = `float-around ${duration}s ease-in-out ${delay}s infinite`;
+            
+            container.appendChild(item);
+        }
+    </script>
+</body>
+</html>
+
+```
 
 ## 🛠️ Tech Stack
 
