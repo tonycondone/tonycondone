@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Coming soon]
 
-- 💬 Ask me about **Power BI, Data Analysis, BIOS modding, ETL workflows, PHP Development, Blockchain Integration**
+- 💬 Ask me about **Universal Agentic Interface, Data Analysis, BIOS modding, ETL workflows, PHP Development, Blockchain Integration**
 
 - 📫 How to reach me **touyboateng339@gmail.com**
 
