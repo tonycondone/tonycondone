@@ -3,11 +3,6 @@
 </div>
 
 <h3 align="center">🚀 Aspiring Data Analyst & Developer | Building the Future with Code</h3>
-
-<a>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=80&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=Timeline+Studio&duration=4000" alt="👨🏾‍💻" />
-  </a>
-
 <p align="center"> <a href="https://twitter.com/tonykflex" target="blank"><img src="https://img.shields.io/twitter/follow/tonykflex?logo=twitter&style=for-the-badge" alt="tonykflex" /></a> </p>
 
 - 🔭 I'm currently working on **[Digital Birth Certificate System](https://github.com/tonycondone/birth-certificate-system)** - A comprehensive PHP 8.4 web application with blockchain integration, QR code verification, and multi-role authentication
