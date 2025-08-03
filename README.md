@@ -4,8 +4,8 @@
 
 <h3 align="center">🚀 Aspiring Data Analyst & Developer | Building the Future with Code</h3>
 
-<a href="https://timelinestudio.pro/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=80&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=Timeline+Studio&duration=4000" alt="Timeline Studio" />
+<a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=80&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=Timeline+Studio&duration=4000" alt="👨🏾‍💻" />
   </a>
 
 <p align="center"> <a href="https://twitter.com/tonykflex" target="blank"><img src="https://img.shields.io/twitter/follow/tonykflex?logo=twitter&style=for-the-badge" alt="tonykflex" /></a> </p>
@@ -24,9 +24,7 @@
 
 - ⚡ Fun fact **I optimize performance even with locked BIOS setups 🛠️**
 
-<a href="https://timelinestudio.pro/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=80&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=Timeline+Studio&duration=4000" alt="Timeline Studio" />
-  </a>
+
 
 ## 🚀 Featured Project
 
@@ -41,9 +39,7 @@ A modern, secure, and comprehensive digital birth certificate management system 
 - 🔄 **RESTful API** with 24+ endpoints
 - 📱 **Responsive Design** with modern UI/UX
 
-<a href="https://timelinestudio.pro/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=80&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=Timeline+Studio&duration=4000" alt="Timeline Studio" />
-  </a>
+
 
 **Status**: ✅ **Production Ready** - Fully operational ,not  deployed yet :/
 
@@ -51,9 +47,7 @@ A modern, secure, and comprehensive digital birth certificate management system 
 
 [View Project →](https://github.com/tonycondone/birth-certificate-system)     
 
-<a href="https://timelinestudio.pro/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=80&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=Timeline+Studio&duration=4000" alt="Timeline Studio" />
-  </a>
+
 
 ## 🛠️ Tech Stack
 
