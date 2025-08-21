@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/>
       </a> 
       <br/>
-      <!-- 🔴 REPLACE: Update username to "tonycondone" below -->
+      <!-- ✅ UPDATED: Username is now "tonycondone" -->
       <img src="https://komarev.com/ghpvc/?username=tonycondone&&style=flat-square" align="center" />
       
       <div style="background: linear-gradient(135deg, #1f2937, #374151); padding: 24px; border-radius: 16px; border: 1px solid #374151; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin: 20px 0;">
@@ -54,9 +54,9 @@
         </a>
         <br/>
         
-        <!-- 🔴 REPLACE: Update your Twitter username below -->
-        <a href="https://twitter.com/your-twitter-username">
-          <img src="https://img.shields.io/twitter/follow/your-twitter-username?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/>
+        <!-- ✅ UPDATED: Twitter username is now "tonykflex" -->
+        <a href="https://twitter.com/tonykflex">
+          <img src="https://img.shields.io/twitter/follow/tonykflex?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/>
         </a>
       </div>
     </td>
@@ -74,29 +74,29 @@
 ## 🚀 Checkout My Projects
 #### Don't hesitate to give them a star if you like the idea, thank you 👇🏽
 
-<!-- 🔴 REPLACE: Update these project repositories with your actual projects -->
+<!-- ✅ UPDATED: Now using your actual project repositories -->
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/your-username/project-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1" />
+      <a href="https://github.com/tonycondone/birth-certificate-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonycondone&repo=birth-certificate-system" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/your-username/project-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2" />
+      <a href="https://github.com/tonycondone/saas-platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonycondone&repo=saas-platform" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/your-username/project-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3" />
+      <a href="https://github.com/tonycondone/new-saas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonycondone&repo=new-saas" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/your-username/project-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-4" />
+      <a href="https://github.com/tonycondone/enterprise-appdata-cleaner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonycondone&repo=enterprise-appdata-cleaner" />
       </a>
     </td>
   </tr>
@@ -109,13 +109,13 @@
 <table>
   <tr>
     <td>
-      <!-- 🔴 REPLACE: Update username to "tonycondone" below -->
+      <!-- ✅ UPDATED: Username is now "tonycondone" -->
       <a href="https://www.github.com/tonycondone">
         <img src="https://api.vaunt.dev/v1/github/entities/tonycondone/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
       </a>
     </td>
     <td>
-      <!-- 🔴 REPLACE: Update username to "tonycondone" below -->
+      <!-- ✅ UPDATED: Username is now "tonycondone" -->
       <a href="https://www.github.com/tonycondone">
         <img src="https://nirzak-streak-stats.vercel.app/?user=tonycondone&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
       </a>
@@ -123,7 +123,7 @@
   </tr>
 </table>
 
-<!-- 🔴 REPLACE: Update the skills table below with your actual technologies -->
+<!-- ✅ UPDATED: Now showing your actual technologies from your projects -->
 <table>
   <tr>
     <td>
@@ -185,7 +185,7 @@
     <td>            
       <p align="center">
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
         </a>
         <p align="center">NodeJS</p>
       </p>
@@ -206,8 +206,8 @@
         <p align="center">MongoDB</p>
       </p>
     </td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
     <td>
       <p align="center">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -226,9 +226,9 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-        </a>
+          </a>
         <p align="center">Firebase</p>
       </p>      
     </td>
@@ -255,15 +255,15 @@
 
 ## 🌟 Connect with me
 
-<!-- 🔴 REPLACE: Update all social media links below with your actual profiles -->
+<!-- ✅ UPDATED: Now using your actual social media profiles -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/anthony-ofori-owusu">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://twitter.com/your-twitter-username">
+  <a href="https://twitter.com/tonykflex">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram-username">
+  <a href="https://www.instagram.com/tonykflex">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
 </p>
@@ -274,15 +274,18 @@
 
 ### 🔴 **REQUIRED UPDATES:**
 
-1. **Portfolio URL**: Replace `https://your-portfolio-url.com/` with your actual portfolio
+1. **Portfolio URL**: Replace `https://your-portfolio-url.com/` with your actual portfolio (we created it, just need to deploy it)
 2. **Profile Header Image**: Upload your image to GitHub and update the URL
-3. **Discord Server**: Update Discord invite link and server ID
-4. **Twitter Username**: Replace `your-twitter-username` with your actual Twitter handle
-5. **Daily.dev Card**: Get your card from https://daily.dev/ and update the URL
-6. **Project Repositories**: Replace the 4 project placeholders with your actual GitHub projects
-7. **LinkedIn Profile**: Update with your LinkedIn URL
-8. **Instagram Username**: Update with your Instagram handle
-9. **Skills/Technologies**: Update the skills table with technologies you actually use
+3. **Discord Server**: Update Discord invite link and server ID (if you have one)
+4. **Daily.dev Card**: Get your card from https://daily.dev/ and update the URL
+
+### ✅ **COMPLETED:**
+
+5. **Twitter Username**: ✅ `@tonykflex` 
+6. **Instagram Username**: ✅ `@tonykflex`
+7. **LinkedIn Profile**: ✅ `https://www.linkedin.com/in/anthony-ofori-owusu`
+8. **Project Repositories**: ✅ Updated with your actual GitHub projects
+9. **GitHub Username**: ✅ `tonycondone` in all stats
 
 ### 🎯 **OPTIONAL ENHANCEMENTS:**
 
