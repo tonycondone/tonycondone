@@ -1,0 +1,191 @@
+[
+  {
+    "name": "new-saas",
+    "type": "web_application",
+    "description": "Modern SaaS platform with subscription management and user authentication",
+    "technologies": [
+      "saas",
+      "subscription",
+      "billing",
+      "authentication",
+      "web-platform"
+    ],
+    "languages": [
+      "javascript",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "frameworks": [
+      "react",
+      "node.js",
+      "express",
+      "next.js"
+    ],
+    "databases": [
+      "mongodb",
+      "postgresql"
+    ],
+    "tools": [
+      "git",
+      "github",
+      "vscode",
+      "docker"
+    ],
+    "complexity_score": 85
+  },
+  {
+    "name": "saas-platform",
+    "type": "web_application",
+    "description": "Comprehensive SaaS platform with multi-tenant architecture and advanced features",
+    "technologies": [
+      "saas",
+      "multi-tenant",
+      "api",
+      "microservices",
+      "cloud"
+    ],
+    "languages": [
+      "javascript",
+      "typescript",
+      "python",
+      "html",
+      "css"
+    ],
+    "frameworks": [
+      "react",
+      "vue.js",
+      "django",
+      "fastapi",
+      "express"
+    ],
+    "databases": [
+      "mysql",
+      "redis",
+      "elasticsearch"
+    ],
+    "tools": [
+      "git",
+      "docker",
+      "kubernetes",
+      "aws",
+      "ci-cd"
+    ],
+    "complexity_score": 90
+  },
+  {
+    "name": "final year project",
+    "type": "academic_project",
+    "description": "Comprehensive final year academic project demonstrating full-stack development skills",
+    "technologies": [
+      "full-stack",
+      "academic",
+      "research",
+      "documentation",
+      "presentation"
+    ],
+    "languages": [
+      "python",
+      "javascript",
+      "java",
+      "php",
+      "html",
+      "css"
+    ],
+    "frameworks": [
+      "django",
+      "react",
+      "spring",
+      "laravel",
+      "bootstrap"
+    ],
+    "databases": [
+      "mysql",
+      "postgresql",
+      "mongodb",
+      "sqlite"
+    ],
+    "tools": [
+      "git",
+      "github",
+      "vscode",
+      "docker",
+      "postman"
+    ],
+    "complexity_score": 95
+  },
+  {
+    "name": "birth-certificate-system",
+    "type": "web_application",
+    "description": "Digital birth certificate management system with blockchain integration and QR code verification",
+    "technologies": [
+      "blockchain",
+      "qr-code",
+      "authentication",
+      "digital-identity",
+      "security"
+    ],
+    "languages": [
+      "php",
+      "javascript",
+      "html",
+      "css",
+      "sql"
+    ],
+    "frameworks": [
+      "laravel",
+      "bootstrap",
+      "jquery",
+      "web3"
+    ],
+    "databases": [
+      "mysql",
+      "blockchain"
+    ],
+    "tools": [
+      "git",
+      "composer",
+      "npm",
+      "blockchain-tools"
+    ],
+    "complexity_score": 88
+  },
+  {
+    "name": "enterprise-appdata-cleaner",
+    "type": "automation",
+    "description": "Enterprise application data cleaning and management tool for large organizations",
+    "technologies": [
+      "automation",
+      "data-cleaning",
+      "enterprise",
+      "workflow",
+      "data-management"
+    ],
+    "languages": [
+      "python",
+      "javascript",
+      "powershell",
+      "sql"
+    ],
+    "frameworks": [
+      "pandas",
+      "numpy",
+      "flask",
+      "express"
+    ],
+    "databases": [
+      "mysql",
+      "postgresql",
+      "sql-server",
+      "oracle"
+    ],
+    "tools": [
+      "n8n",
+      "zapier",
+      "git",
+      "docker",
+      "aws"
+    ],
+    "complexity_score": 82
+  }
+]
