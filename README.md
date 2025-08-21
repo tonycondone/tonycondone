@@ -122,7 +122,7 @@
 
 ---
 
-## 🐍 Contribution Snake & 🌍 Visitors
+## 🐍 Contribution Snake
 
 <div align="center">
   
@@ -130,8 +130,6 @@
   <img src="https://raw.githubusercontent.com/tonycondone/tonycondone/output/snake.svg" alt="snake animation" />
   <br/>
 
-  <!-- Visitors counter (lightweight view counter) -->
-  <img src="https://visitcount.itsvg.in/api?id=tonycondone&icon=0&color=0" alt="Visitor Count" />
 </div>
 
 ---
