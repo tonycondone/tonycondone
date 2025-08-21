@@ -2,7 +2,7 @@
 
 ## 🎨 Profile Header
 <!-- 🔴 REPLACE THIS: Upload your profile header image to GitHub and update the URL below -->
-[![Profile Header](https://user-images.githubusercontent.com/78784850/223382595-206f2aef-9fc7-4782-a57c-f5e21fb9a120.jpg)](https://your-portfolio-url.com/)
+[![Profile Header](https://user-images.githubusercontent.com/78784850/223382595-206f2aef-9fc7-4782-a57c-f5e21fb9a120.jpg)](https://tonycondone.github.io/portfolio)
 
 ---
 
@@ -11,8 +11,8 @@
 <table>
   <tr>
     <td valign="center">
-      <!-- 🔴 REPLACE: Update your portfolio URL below -->
-      <a href="https://your-portfolio-url.com/">
+      <!-- ✅ Portfolio URL updated -->
+      <a href="https://tonycondone.github.io/portfolio">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/>
       </a> 
       <br/>
@@ -36,8 +36,8 @@
         
         <p style="color: #d1d5db; line-height: 1.8; margin: 8px 0;">
           🧑🏽‍💻 &nbsp;Reach out to me through twitter or the contact form in 
-          <!-- 🔴 REPLACE: Update your portfolio URL below -->
-          <a href="https://your-portfolio-url.com/" style="color: #00ff00; text-decoration: none;">my portfolio</a>
+          <!-- ✅ Portfolio URL updated -->
+          <a href="https://tonycondone.github.io/portfolio" style="color: #00ff00; text-decoration: none;">my portfolio</a>
         </p>
         
         <p style="color: #d1d5db; line-height: 1.8; margin: 8px 0;">
@@ -48,11 +48,14 @@
       <div style="background: linear-gradient(135deg, #1f2937, #374151); padding: 24px; border-radius: 16px; border: 1px solid #374151; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin: 20px 0;">
         <h3 style="color: #00ff00; margin: 0 0 16px 0;">Twitter & Discord Community</h3>
         
-        <!-- 🔴 REPLACE: Update your Discord server ID below -->
+        <!-- Discord server: coming soon -->
+        <!--
         <a href="https://discord.gg/your-discord-invite">
           <img src="https://dcbadge.vercel.app/api/server/your-discord-server-id" alt="Your discord server"/>
         </a>
         <br/>
+        -->
+        <p style="color: #94a3b8; margin: 8px 0;">Discord server: coming soon</p>
         
         <!-- ✅ UPDATED: Twitter username is now "tonykflex" -->
         <a href="https://twitter.com/tonykflex">
@@ -61,10 +64,13 @@
       </div>
     </td>
     <td>
-      <!-- 🔴 REPLACE: Get your Daily.dev card from https://daily.dev/ and update the URL below -->
+      <!-- Daily.dev card: coming soon -->
+      <!--
       <a href="https://app.daily.dev/your-username">
         <img src="https://api.daily.dev/devcards/your-dev-card-id.png?r=smv" width="400" alt="Your Dev Card"/>
       </a>
+      -->
+      <p style="color: #94a3b8;">Daily.dev card: coming soon</p>
     </td>
   </tr>
 </table>
@@ -274,13 +280,13 @@
 
 ### 🔴 **REQUIRED UPDATES:**
 
-1. **Portfolio URL**: Replace `https://your-portfolio-url.com/` with your actual portfolio (we created it, just need to deploy it)
-2. **Profile Header Image**: Upload your image to GitHub and update the URL
-3. **Discord Server**: Update Discord invite link and server ID (if you have one)
-4. **Daily.dev Card**: Get your card from https://daily.dev/ and update the URL
+1. **Profile Header Image**: Upload your image to GitHub and update the URL
+2. **Discord Server**: Update Discord invite link and server ID (if you have one)
+3. **Daily.dev Card**: Get your card from https://daily.dev/ and update the URL
 
 ### ✅ **COMPLETED:**
 
+4. **Portfolio URL**: ✅ `https://tonycondone.github.io/portfolio`
 5. **Twitter Username**: ✅ `@tonykflex` 
 6. **Instagram Username**: ✅ `@tonykflex`
 7. **LinkedIn Profile**: ✅ `https://www.linkedin.com/in/anthony-ofori-owusu`
