@@ -96,6 +96,32 @@
 
 ---
 
+## ✨ Extra GitHub Animations
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=tonycondone&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="trophies" />
+  <br/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonycondone&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+  <br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonycondone&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="top langs" />
+  <br/>
+
+  <!-- Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tonycondone&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="stats" />
+  <br/>
+
+  <!-- Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</div>
+
+---
+
 ## 🚀 Checkout My Projects
 #### Don't hesitate to give them a star if you like the idea, thank you 👇🏽
 
