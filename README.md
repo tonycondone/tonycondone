@@ -6,7 +6,26 @@
 
 ---
 
-## ✨ Wonderful Intro
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anthony+Ofori+Owusu;Data+Analyst+%26+Developer;From+Ghana+%F0%9F%87%AC%F0%9F%87%AD;Always+Learning+%26+Building" alt="Typing SVG" />
+</div>
+
+<h3 align="center">🚀 Aspiring Data Analyst & Developer | Building the Future with Code</h3>
+<p align="center"> <a href="https://twitter.com/tonykflex" target="blank"><img src="https://img.shields.io/twitter/follow/tonykflex?logo=twitter&style=for-the-badge" alt="tonykflex" /></a> </p>
+
+- 🔭 I'm currently working on **[Digital Birth Certificate System](https://github.com/tonycondone/birth-certificate-system)** - A comprehensive PHP 8.4 web application with blockchain integration, QR code verification, and multi-role authentication
+
+- 🌱 I'm currently learning **"Advanced Python", "N8N automations", "Data Warehousing", "Machine Learning (Scikit-learn)", "PHP 8.4", "Blockchain Development"**
+
+- 👯 I'm looking to collaborate on [Open-source data visualization libraries](https://www.rawgraphs.io) and **Digital Identity Systems**
+
+- 👨‍💻 All of my projects are available at [Coming soon]
+
+- 💬 Ask me about **Universal Agentic Interface, Data Analysis, BIOS modding, ETL workflows, PHP Development, Blockchain Integration**
+
+- 📫 How to reach me **touyboateng339@gmail.com**
+
+- ⚡ Fun fact **I optimize performance even with locked BIOS setups 🛠️**
 
 <table>
   <tr>
@@ -134,7 +153,7 @@
   <tr>
     <td>
       <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
         </a>
         <p align="center">JavaScript</p>
@@ -142,7 +161,7 @@
     </td>
     <td>           
       <p align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <a href="https://www.typescriptlang.org/" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
         </a>
         <p align="center">TypeScript</p>
@@ -150,7 +169,7 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
         </a>
         <p align="center">HTML5</p>
@@ -158,7 +177,7 @@
     </td>
     <td>            
       <p align="center">
-        <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+        <a href="https://nextjs.org/docs" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
         </a>
         <p align="center">NextJS</p>
@@ -166,7 +185,7 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+        <a href="https://redux.js.org/" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
         </a>
         <p align="center">Redux</p>
@@ -174,7 +193,7 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+        <a href="https://www.w3.org/TR/CSS/#css" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
         </a>
         <p align="center">CSS</p>
@@ -182,7 +201,7 @@
     </td>
     <td>      
       <p align="center">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <a href="https://tailwindcss.com/" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
         </a>
         <p align="center">Tailwind</p>
@@ -190,7 +209,7 @@
     </td>
     <td>            
       <p align="center">
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <a href="https://nodejs.org/en/" target="blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
         </a>
         <p align="center">NodeJS</p>
@@ -198,7 +217,7 @@
     </td>
     <td>           
       <p align="center">
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <a href="https://expressjs.com/" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
         </a>
         <p align="center">ExpressJS</p>
@@ -206,7 +225,7 @@
     </td>
     <td>             
       <p align="center">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <a href="https://www.mongodb.com/" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
         </a>
         <p align="center">MongoDB</p>
@@ -216,7 +235,7 @@
     <tr>
     <td>
       <p align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <a href="https://reactjs.org/" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
         </a>
         <p align="center">React</p>
@@ -224,7 +243,7 @@
     </td>
     <td>           
       <p align="center">
-        <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
+        <a href="https://www.adobe.com/uk/products/xd.html" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" />
         </a>
         <p align="center">Adobe XD</p>
@@ -232,7 +251,7 @@
     </td>
     <td>
       <p align="center">
-          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <a href="https://firebase.google.com/" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
           </a>
         <p align="center">Firebase</p>
@@ -240,7 +259,7 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <a href="https://www.figma.com/" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
         </a>
         <p align="center">Figma</p>
@@ -248,7 +267,7 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+        <a href="https://sass-lang.com/" target="blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
         </a>
         <p align="center">SASS</p>
