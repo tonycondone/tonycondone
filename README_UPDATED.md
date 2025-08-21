@@ -25,7 +25,11 @@
 
 Based on my recent development activities, I'm currently focused on:
 
-- **Learning**: Advanced concepts in 
+- **Technologies**: saas, authentication, subscription
+- **Languages**: javascript, html, css
+- **Active Projects**: 5 projects in development
+- **Learning**: Advanced concepts in javascript, html
+- **Specialization**: Full-stack development with focus on SaaS platforms and enterprise solutions
 
 
 ## 🚀 Featured Projects
@@ -45,6 +49,40 @@ A modern, secure, and comprehensive digital birth certificate management system 
 **Tech Stack**: PHP 8.4, MySQL 8.0, HTML5/CSS3, JavaScript ES6+, Bootstrap, Blockchain
 
 [View Project →](https://github.com/tonycondone/birth-certificate-system)
+
+### Recently Discovered Projects
+
+#### Final Year Project
+**Type**: Academic Project
+**Complexity**: 95/100
+**Technologies**: full-stack, academic, research, documentation, presentation
+**Description**: Comprehensive final year academic project demonstrating full-stack development skills
+**Languages**: python, javascript, java
+**Frameworks**: django, react, spring
+
+#### Saas Platform
+**Type**: Web Application
+**Complexity**: 90/100
+**Technologies**: saas, multi-tenant, api, microservices, cloud
+**Description**: Comprehensive SaaS platform with multi-tenant architecture and advanced features
+**Languages**: javascript, typescript, python
+**Frameworks**: react, vue.js, django
+
+#### Birth Certificate System
+**Type**: Web Application
+**Complexity**: 88/100
+**Technologies**: blockchain, qr-code, authentication, digital-identity, security
+**Description**: Digital birth certificate management system with blockchain integration and QR code verification
+**Languages**: php, javascript, html
+**Frameworks**: laravel, bootstrap, jquery
+
+#### New Saas
+**Type**: Web Application
+**Complexity**: 85/100
+**Technologies**: saas, subscription, billing, authentication, web-platform
+**Description**: Modern SaaS platform with subscription management and user authentication
+**Languages**: javascript, typescript, html
+**Frameworks**: react, node.js, express
 
 ## Digital Birth Certificate System
 A modern, secure, and comprehensive digital birth certificate management system built with **PHP 8.4**, featuring:
@@ -71,10 +109,26 @@ A modern, secure, and comprehensive digital birth certificate management system 
 <!-- Animated Tech Stack with Floating Effect -->
 <div align="center" style="margin: 30px 0;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img src="https://img.shields.io/badge/saas-000000?style=for-the-badge&logo=saas&logoColor=white" style="animation: float 3s ease-in-out infinite;" />
+    <img src="https://img.shields.io/badge/authentication-000000?style=for-the-badge&logo=authentication&logoColor=white" style="animation: float 3s ease-in-out infinite;" />
+    <img src="https://img.shields.io/badge/subscription-000000?style=for-the-badge&logo=subscription&logoColor=white" style="animation: float 3s ease-in-out infinite;" />
+    <img src="https://img.shields.io/badge/billing-000000?style=for-the-badge&logo=billing&logoColor=white" style="animation: float 3s ease-in-out infinite;" />
+    <img src="https://img.shields.io/badge/web-platform-000000?style=for-the-badge&logo=web-platform&logoColor=white" style="animation: float 3s ease-in-out infinite;" />
+    <img src="https://img.shields.io/badge/multi-tenant-000000?style=for-the-badge&logo=multi-tenant&logoColor=white" style="animation: float 3s ease-in-out infinite;" />
+    <img src="https://img.shields.io/badge/api-000000?style=for-the-badge&logo=api&logoColor=white" style="animation: float 3s ease-in-out infinite;" />
+    <img src="https://img.shields.io/badge/microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" style="animation: float 3s ease-in-out infinite;" />
   </div>
 </div>
 
 ### Technology Categories
+
+**Programming Languages**: javascript, html, css, python, typescript
+
+**Frameworks & Libraries**: react, express, django, laravel, bootstrap
+
+**Databases**: mongodb, postgresql, mysql
+
+**Tools & Platforms**: git, github, vscode, docker, kubernetes
 
 ## 🌟 Connect with me
 
@@ -99,10 +153,29 @@ A modern, secure, and comprehensive digital birth certificate management system 
 ## 📊 Skills Matrix
 
 ### Programming Languages
+- **javascript**: 🟢 Proficient (5 projects)
+- **html**: 🟢 Proficient (4 projects)
+- **css**: 🟢 Proficient (4 projects)
+- **python**: 🟢 Proficient (3 projects)
+- **typescript**: 🟡 Intermediate (2 projects)
+- **php**: 🟡 Intermediate (2 projects)
 
 ### Project Types
+- **Web Application**: 3 projects
+- **Academic Project**: 1 projects
+- **Automation**: 1 projects
 
 ### Technology Stack
+- **saas**: 2 projects
+- **authentication**: 2 projects
+- **subscription**: 1 projects
+- **billing**: 1 projects
+- **web-platform**: 1 projects
+- **multi-tenant**: 1 projects
+- **api**: 1 projects
+- **microservices**: 1 projects
+- **cloud**: 1 projects
+- **full-stack**: 1 projects
 
 
 ## 📊 GitHub Stats
@@ -117,6 +190,9 @@ A modern, secure, and comprehensive digital birth certificate management system 
 
 ## 🏆 Recent Achievements
 
-- 📊 **Total Projects**: 0 development projects discovered
-- 🛠️ **Technologies**: Working with 0 different technologies
-- 📈 **Skill Growth**: Expanded expertise across 0 programming languages
+- 🔥 **Active Development**: 5 projects in recent development
+- 🚀 **Complex Projects**: 5 high-complexity projects completed
+- 📊 **Total Projects**: 5 development projects discovered
+- 🛠️ **Technologies**: Working with 23 different technologies
+- 📈 **Skill Growth**: Expanded expertise across 9 programming languages
+- 🎯 **Project Diversity**: 3 different project types mastered

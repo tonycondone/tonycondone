@@ -2,7 +2,7 @@
   "github_profile_updater": {
     "task_description": "Scan specified user path for development projects and generate comprehensive GitHub profile update while ignoring Windows system files and folders",
     "scan_configuration": {
-      "base_path": "/workspace",
+      "base_path": "C:\\Users\\Admin",
       "recursive_scan": true,
       "max_depth": 5,
       "follow_symlinks": false
@@ -326,7 +326,7 @@
     },
     "execution_instructions": {
       "scan_process": [
-        "1. Start recursive scan from /workspace",
+        "1. Start recursive scan from C:\\Users\\Admin",
         "2. Apply Windows exclusion rules first",
         "3. Identify development project folders",
         "4. Analyze each project's structure and technologies",
@@ -350,12 +350,11 @@
     },
     "expected_discoveries": {
       "likely_project_locations": [
-        "/workspace",
-        "/workspace/projects",
-        "/workspace/development",
-        "/workspace/github",
-        "/workspace/source",
-        "/workspace/workspace"
+        "C:\\Users\\Admin\\new-saas",
+        "C:\\Users\\Admin\\saas-platform",
+        "C:\\Users\\Admin\\final year project",
+        "C:\\Users\\Admin\\birth-certificate-system",
+        "C:\\Users\\Admin\\enterprise-appdata-cleaner"
       ],
       "anticipated_technologies": [
         "PHP 8.4 projects",
