@@ -23,58 +23,6 @@
 
 
 
-<div align="center">
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=tonycondone&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="trophies" />
-  <br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonycondone&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-  <br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonycondone&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="top langs" />
-  <br/>
-
-  <!-- Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</div>
-
----
-
-## 🚀 Checkout My Projects
-#### Don't hesitate to give them a star if you like the idea, thank you 👇🏽
-
-<!-- ✅ UPDATED: Now using your actual project repositories -->
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/tonycondone/birth-certificate-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonycondone&repo=birth-certificate-system" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/tonycondone/memU">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonycondone&repo=memU" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/tonycondone/new-project-niv">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonycondone&repo=project-niv" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/tonycondone/enterprise-appdata-cleaner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonycondone&repo=enterprise-appdata-cleaner" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🚀 Featured Project
 
