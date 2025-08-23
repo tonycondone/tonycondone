@@ -40,7 +40,7 @@ A modern, secure, and comprehensive digital birth certificate management system 
 
 **Tech Stack**: PHP 8.4, MySQL 8.0, HTML5/CSS3, JavaScript ES6+, Bootstrap, Blockchain
 
-[View Project →](https://github.com/tonycondone/birth-certificate-system)     Its private :)
+[View Project →](https://github.com/tonycondone/birth-certificate-system)    
 
 
 
