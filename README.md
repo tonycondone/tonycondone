@@ -32,15 +32,23 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <a href="https://github.com/tonycondone">
-    <img src="https://ionicabizau.github.io/github-profile-insider/api.php?username=tonycondone" alt="GitHub Isometric Contributions" width="80%">
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonycondone&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonycondone&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00" alt="GitHub Streak" />
-</p>
 
----
+- 💬 Ask me about **Universal Agentic Interface, Data Analysis, BIOS modding, ETL workflows, PHP Development, Blockchain Integration**
+
+
+
+<!-- Enhanced Stats with Custom Themes -->
+<div align="center" style="margin: 30px 0;">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonycondone&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&currStreakLabel=00ff00&sideNums=ffffff&sideLabels=00ff00&dates=ffffff" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 20px 30px rgba(0, 247, 255, 0.3);" />
+</div>
+
+
+
+
+
+
+  
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Always+Learning%2C+Always+Building!+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
