@@ -1,0 +1,77 @@
+{
+  "scan_timestamp": "2025-08-21T19:10:43.388166",
+  "total_projects": 2,
+  "total_technologies": 20,
+  "projects": [
+    {
+      "name": "demo_project",
+      "path": "/workspace/demo_project",
+      "type": "Frontend Web",
+      "technologies": [
+        "Express",
+        "Tailwind",
+        "TypeScript",
+        "React"
+      ],
+      "file_count": 3,
+      "code_lines": 68,
+      "complexity_score": 9.58,
+      "last_modified": 1755803366.9773316,
+      "has_readme": true,
+      "description": "A comprehensive web application built with modern technologies to demonstrate the capabilities of the GitHub Profile Updater system.",
+      "readme_content": "# \ud83d\ude80 Demo Web Application\n\nA comprehensive web application built with modern technologies to demonstrate the capabilities of the GitHub Profile Updater system.\n\n## \u2728 Features\n\n- **Modern Frontend**: Built with React 18 and TypeScript\n- **Responsive Design**: Styled with Tailwind CSS\n- **RESTful Backend**: Express.js server with Node.js\n- **Real-time Status**: API endpoint for monitoring application health\n\n## \ud83d\udee0\ufe0f Tech Stack\n\n### Frontend\n- **React 18**: Latest React features and hooks\n- **TypeScript**: Type-safe JavaScript development\n- **Tailwind CSS**: Utility-first CSS framework\n\n### Backend\n- **Express.js**: Fast, unopinionated web framework\n- **Node.js**: JavaScript runtime environment\n- **RESTful API**: Clean API design principles\n\n## \ud83d\ude80 Getting Started\n\n### Prerequisites\n- Node.js 16+ \n- npm or yarn package manager\n\n### Installation\n```bash\nnpm install\n```\n\n### Development\n```bash\nnpm run dev\n```\n\n### Production\n```bash\nnpm start\n```\n\n### Testing\n```bash\nnpm test\n```\n\n## \ud83d\udcc1 Project Structure\n\n```\ndemo_project/\n\u251c\u2500\u2500 package.json          # Dependencies and scripts\n\u251c\u2500\u2500 index.js             # Express server entry point\n\u251c\u2500\u2500 README.md            # Project documentation\n\u2514\u2500\u2500 public/              # Static assets (if any)\n```\n\n## \ud83c\udf10 API Endpoints\n\n- `GET /` - Main application page\n- `GET /api/status` - Application health status\n\n## \ud83d\udd27 Configuration\n\nThe application runs on port 3000 by default. You can change this by setting the `PORT` environment variable:\n\n```bash\nPORT=8080 npm start\n```\n\n## \ud83d\udcdd License\n\nThis project is licensed under the MIT License.\n\n---\n\n**Built with \u2764\ufe0f to test the GitHub Profile Updater system**"
+    },
+    {
+      "name": "demo_python_project",
+      "path": "/workspace/demo_python_project",
+      "type": "Backend Web",
+      "technologies": [
+        "flask",
+        "requests",
+        "seaborn",
+        "pandas",
+        "python-dotenv",
+        "pytest",
+        "Flask",
+        "dotenv",
+        "flask_cors",
+        "flake8",
+        "scikit-learn",
+        "Pillow",
+        "matplotlib",
+        "flask-cors",
+        "numpy",
+        "black"
+      ],
+      "file_count": 2,
+      "code_lines": 146,
+      "complexity_score": 34.06,
+      "last_modified": 1755803390.5491486,
+      "has_readme": false,
+      "description": "",
+      "readme_content": ""
+    }
+  ],
+  "technologies": [
+    "Tailwind",
+    "React",
+    "Pillow",
+    "python-dotenv",
+    "flask",
+    "Express",
+    "requests",
+    "pandas",
+    "pytest",
+    "Flask",
+    "scikit-learn",
+    "flask-cors",
+    "numpy",
+    "black",
+    "seaborn",
+    "flask_cors",
+    "dotenv",
+    "TypeScript",
+    "flake8",
+    "matplotlib"
+  ]
+}
