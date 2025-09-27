@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anthony+Ofori+Owusu;Full-Stack+Developer+%26+Data+Analyst;From+Ghana+%F0%9F%87%AC%F0%9F%87%AD" alt="Hi 👋, I'm Anthony Ofori Owusu; Full-Stack Developer & Data Analyst; From Ghana :)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anthony+Ofori+Owusu;Full-Stack+Developer+%26+Data+Analyst;From+Ghana+%F0%9F%87%AC%F0%9F%87%AD" alt="Hi 👋, I'm Anthony Ofori Owusu; Full-Stack Developer & Aspiring Data Scientist; From Ghana :)" />
 
 </div>
 
 <p align="center">
-  I am a developer and data analyst passionate about creating secure digital identity systems, building mcp servers for fun and insightful data workflows. My goal is to build robust, full-stack applications that solve real-world problems.
+  I am a developer and data analyst passionate about creating secure digital identity systems, building mcp servers and SaaS. My goal is to build robust, full-stack applications that solve real-world problems.
 </p>
 
 <p align="center">
