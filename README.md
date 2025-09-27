@@ -39,33 +39,21 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/24/000000/external-certificate-education-flaticons-flat-flat-icons.png"/> **[Digital Birth Certificate System](https://github.com/tonycondone/birth-certificate-system )** | A secure digital certificate management system featuring multi-role authentication, QR code verification, and blockchain integration. | ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) |
-| <img src="https://img.icons8.com/fluency/24/000000/database.png"/> **[Academic Data Repository](https://github.com/tonycondone/Academic-Data-Repository-)** | Web-based platform for dataset sharing and research collaboration | ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) |
-| <img src="https://img.icons8.com/ios-filled/24/000000/settings.png"/> **[modmaster-pro](https://github.com/tonycondone/modmaster-pro)** | Advanced modding toolkit for game resource management and automation. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B) |
-| <img src="https://img.icons8.com/color/24/000000/controller.png"/> **[shadps4-qtlauncher](https://github.com/tonycondone/shadps4-qtlauncher)** | Qt-powered launcher for PS4 utilities and homebrew management. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" height="22" alt="PHP" style="vertical-align:middle;"/> **[Digital Birth Certificate System](https://github.com/tonycondone/birth-certificate-system )** | A secure digital certificate management system featuring multi-role authentication, QR code verification, and blockchain integration. | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" height="20" alt="PHP" title="PHP"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="20" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="20" alt="MySQL" title="MySQL"/> |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/database.svg" height="22" alt="Database" style="vertical-align:middle;"/> **[Academic Data Repository](https://github.com/tonycondone/Academic-Data-Repository-)** | Web-based platform for dataset sharing and research collaboration | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" height="20" alt="PHP" title="PHP"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="20" alt="CSS" title="CSS"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="20" alt="JavaScript" title="JavaScript"/> |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="22" alt="Python" style="vertical-align:middle;"/> **[modmaster-pro](https://github.com/tonycondone/modmaster-pro)** | Advanced modding toolkit for game resource management and automation. | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="20" alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" height="20" alt="C++" title="C++"/> |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/qt.svg" height="22" alt="Qt" style="vertical-align:middle;"/> **[shadps4-qtlauncher](https://github.com/tonycondone/shadps4-qtlauncher)** | Qt-powered launcher for PS4 utilities and homebrew management. | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" height="20" alt="C++" title="C++"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/qt.svg" height="20" alt="Qt" title="Qt"/> |
 
 ---
 
-### 📟 Terminal-style Animated GitHub Stats
-
-<p align="center" style="background: #101820; padding: 20px; border-radius: 8px; color: #39FF14; font-family: 'Fira Mono', monospace;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+GitHub+Terminal...;Loading+User+Stats...;Access+Granted." alt="Terminal Boot Animation" /><br/>
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="30" style="vertical-align:middle;" alt="Terminal Cursor"/>
-</p>
-
-<p align="center" style="background: #101820; padding: 20px; border-radius: 8px; color: #39FF14; font-family: 'Fira Mono', monospace; font-size: 1.1em;">
-  <img src="https://media.giphy.com/media/j5QcmXoFWlwpO/giphy.gif" height="24" alt="git branch" /> <b>Current Branch:</b> <span style="color:#00FF00;">main</span><br/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="24" alt="commits" /> <b>Commits:</b> <span style="color:#00FF00;">[commits]</span><br/>
-  <img src="https://media.giphy.com/media/3o7aCPb4TcQyK8fV1C/giphy.gif" height="24" alt="pull requests" /> <b>Open PRs:</b> <span style="color:#00FF00;">[PRs]</span><br/>
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="24" alt="contributions" /> <b>Contributions:</b> <span style="color:#00FF00;">[contributions]</span>
-</p>
+### 📟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonycondone&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=39FF14&title_color=39FF14&text_color=39FF14&bg_color=101820" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonycondone&theme=react&hide_border=true&background=101820&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&currStreakLabel=39FF14&sideLabels=39FF14" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tonycondone&show_icons=true&theme=vue-dark&hide_border=true&icon_color=000000&title_color=000000&text_color=000000&bg_color=ffffff" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonycondone&theme=graywhite&hide_border=true" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonycondone&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=39FF14&text_color=39FF14&bg_color=101820" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonycondone&layout=compact&theme=vue-dark&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" height="150"/>
 </p>
 
 ---
