@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  I am a developer and data analyst passionate about creating secure digital identity systems and insightful data workflows. My goal is to build robust, full-stack applications that solve real-world problems.
+  I am a developer and data analyst passionate about creating secure digital identity systems, building mcp servers for fun and insightful data workflows. My goal is to build robust, full-stack applications that solve real-world problems.
 </p>
 
 <p align="center">
