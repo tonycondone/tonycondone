@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-007ACC?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Data%20Analyst-3B7DDD?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data%20Driven-3B7DDD?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/-Open%20Source%20Enthusiast-4CAF50?style=flat-square" />
 </p>
 
