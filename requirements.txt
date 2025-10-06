@@ -1,0 +1,12 @@
+# GitHub Profile Updater Dependencies
+# These are the minimal requirements for the system to function
+
+# Core Python libraries (usually included with Python 3.6+)
+# No external packages required - uses only standard library
+
+# Optional: For enhanced functionality (uncomment if needed)
+# requests>=2.25.0  # For fetching external data
+# beautifulsoup4>=4.9.0  # For HTML parsing
+# PyGithub>=1.55  # For GitHub API integration
+# colorama>=0.4.4  # For colored terminal output
+# tqdm>=4.60.0  # For progress bars
