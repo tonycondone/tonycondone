@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  I am a developer and data analyst passionate about creating secure digital identity systems, building mcp servers and SaaS. My goal is to build robust, full-stack applications that solve real-world problems and help businesses thrive.
+  I am a developer passionate about creating secure digital identity systems, building mcp servers and SaaS. My goal is to build robust, full-stack applications that solve real-world problems and help businesses thrive.
   <svg width="12" height="12" style="vertical-align:middle">
     <circle cx="6" cy="6" r="5" fill="#00FF00">
       <animate attributeName="opacity" values="1;0.1;1" dur="1s" repeatCount="indefinite"/>
