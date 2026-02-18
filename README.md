@@ -29,7 +29,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anthony-ofori-owusu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Anthony%20Ofori%20Owusu-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/tonykflex" target="blank"><img src="https://img.shields.io/twitter/follow/tonykflex?logo=twitter&style=for-the-badge" alt="Follow on Twitter"></a>
   <a href="mailto:touyboateng339@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-brightgreen?style=for-the-badge&logo=gmail"></a>
 </p>
